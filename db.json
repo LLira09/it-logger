@@ -1,25 +1,32 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on workstation 005",
+      "message": "Changed network card on computer station 003",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sam Smith"
+      "tech": "John Doe",
+      "date": "2019-11-19T21:02:46.419Z",
+      "id": 1
     },
     {
       "id": 2,
-      "message": "Workstation 007 not posting",
-      "attention": true,
-      "date": "03-02-2019",
-      "tech": "John Doe"
+      "message": "Replaced wifi adapter on Station 005 ",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2019-11-19T21:44:21.499Z"
     },
     {
-      "id": 3,
-      "message": "Changed memory on workstation 050",
+      "message": "Changed graphics card out of streaming station 001",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sara Wilson"
+      "tech": "Sam Smith",
+      "date": "2019-11-19T21:04:02.850Z",
+      "id": 3
+    },
+    {
+      "message": "Station 011 needs new mouse",
+      "attention": true,
+      "tech": "Sara\n     Wilson",
+      "date": "2019-11-20T00:34:30.516Z",
+      "id": 4
     }
   ],
   "techs": [
